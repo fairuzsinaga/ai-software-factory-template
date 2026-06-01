@@ -1,7 +1,7 @@
 {
     "name": "fairuzsinaga/ai-software-factory",
     "description": "AI Software Factory Template",
-    "type": "library",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
