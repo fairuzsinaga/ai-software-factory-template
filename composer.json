@@ -1,0 +1,19 @@
+{
+    "name": "fairuzsinaga/ai-software-factory",
+    "description": "AI Software Factory Template",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fairuz Sinaga"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FairuzSinaga\\AISoftwareFactory\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.1"
+    }
+}
